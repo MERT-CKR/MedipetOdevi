@@ -72,7 +72,7 @@ li ul li {
 {
     background-color: white;
     margin-left: 500px;
-    margin-top: 38px;
+    margin-top: 50px;
    
     overflow: hidden;
     margin-right: 148px;
@@ -82,9 +82,9 @@ li ul li {
 }
 h1
 {
-font-size: 22px;
-margin-left: 40px;
-margin-top: 40px;
+    font-size: 22px;
+    margin-left: 40px;
+    margin-top: 40px;
 
 }
 input[type=text] {
@@ -133,11 +133,11 @@ p
     position: absolute;
     height: 100vh;
     margin: 50px;
-    margin-top: -748px;
+    margin-top: -722px;
     margin-left: 152px;
-   width: 26%;
-   border-top-left-radius: 5px;
-   border-bottom-left-radius: 5px;
+    width: 26%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 
 }
 h3
@@ -161,16 +161,16 @@ h3
 
 }
 #hr{
-margin-left: 40px;
-margin-right: 40px;
-opacity: 50%;
+    margin-left: 40px;
+    margin-right: 40px;
+    opacity: 50%;
 
 }
 .hr
 {
-margin-left: 40px;
-margin-right: 40px;
-opacity: 50%;
+    margin-left: 40px;
+    margin-right: 40px;
+    opacity: 50%;
 }
 .telif
 {
